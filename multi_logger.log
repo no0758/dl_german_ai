@@ -1,0 +1,491 @@
+
+2018-12-23 21:32:33 =====**********=====
+2018-12-23 21:32:54 evalute_epoch0 ,evaluate_loss:3.8661310212707742 ,evaluate_accuracy:3.118.
+2018-12-23 21:32:55 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 21:35:23 evalute_epoch1 ,evaluate_loss:2.545307524322183 ,evaluate_accuracy:47.672.
+2018-12-23 21:35:24 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 21:38:32 evalute_epoch1 ,evaluate_loss:1.899208414232836 ,evaluate_accuracy:48.692.
+2018-12-23 21:38:33 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 21:41:43 evalute_epoch1 ,evaluate_loss:1.57301267436737 ,evaluate_accuracy:55.968.
+2018-12-23 21:41:44 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 21:43:17 evalute_epoch1 ,evaluate_loss:1.7616123705490732 ,evaluate_accuracy:52.622.
+2018-12-23 21:46:09 evalute_epoch1 ,evaluate_loss:1.7996640785193483 ,evaluate_accuracy:55.131.
+2018-12-23 21:48:54 evalute_epoch1 ,evaluate_loss:1.6364047568484648 ,evaluate_accuracy:57.631.
+2018-12-23 21:48:54 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 21:52:01 evalute_epoch1 ,evaluate_loss:1.6232959381743912 ,evaluate_accuracy:58.398.
+2018-12-23 21:52:02 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 21:55:05 evalute_epoch1 ,evaluate_loss:1.599711226015286 ,evaluate_accuracy:57.001.
+2018-12-23 21:58:09 evalute_epoch1 ,evaluate_loss:1.5349393461151817 ,evaluate_accuracy:59.443.
+2018-12-23 21:58:09 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 22:01:15 evalute_epoch1 ,evaluate_loss:1.564011190669978 ,evaluate_accuracy:56.072.
+2018-12-23 22:04:20 evalute_epoch1 ,evaluate_loss:2.1226563170268675 ,evaluate_accuracy:52.560.
+2018-12-23 22:04:22 epoch1:accuracy: 68.00%	loss: 1.0611	time: 343ms  
+2018-12-23 22:04:42 evalute_epoch1 ,evaluate_loss:1.6125145084728743 ,evaluate_accuracy:56.118.
+2018-12-23 22:07:09 evalute_epoch2 ,evaluate_loss:1.8856904363942595 ,evaluate_accuracy:50.703.
+2018-12-23 22:10:15 evalute_epoch2 ,evaluate_loss:1.6356376306824514 ,evaluate_accuracy:56.930.
+2018-12-23 22:13:20 evalute_epoch2 ,evaluate_loss:1.6199294707387522 ,evaluate_accuracy:58.419.
+2018-12-23 22:16:23 evalute_epoch2 ,evaluate_loss:1.532894423181053 ,evaluate_accuracy:57.324.
+2018-12-23 22:19:28 evalute_epoch2 ,evaluate_loss:1.4474775766603754 ,evaluate_accuracy:59.451.
+2018-12-23 22:19:28 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 22:22:34 evalute_epoch2 ,evaluate_loss:1.6450247784950696 ,evaluate_accuracy:57.171.
+2018-12-23 22:25:38 evalute_epoch2 ,evaluate_loss:1.5649183133164568 ,evaluate_accuracy:59.235.
+2018-12-23 22:28:40 evalute_epoch2 ,evaluate_loss:1.5407332127117697 ,evaluate_accuracy:57.776.
+2018-12-23 22:31:43 evalute_epoch2 ,evaluate_loss:1.5315904986616677 ,evaluate_accuracy:59.517.
+2018-12-23 22:31:44 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 22:34:49 evalute_epoch2 ,evaluate_loss:1.4889160355424755 ,evaluate_accuracy:59.061.
+2018-12-23 22:37:50 evalute_epoch2 ,evaluate_loss:1.547798463255272 ,evaluate_accuracy:60.123.
+2018-12-23 22:37:51 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 22:37:54 epoch2:accuracy: 75.00%	loss: 0.7987	time: 365ms  
+2018-12-23 22:38:15 evalute_epoch2 ,evaluate_loss:1.5349913471062102 ,evaluate_accuracy:60.077.
+2018-12-23 22:40:40 evalute_epoch3 ,evaluate_loss:1.5787770987159997 ,evaluate_accuracy:58.041.
+2018-12-23 22:43:43 evalute_epoch3 ,evaluate_loss:1.373137934814169 ,evaluate_accuracy:60.915.
+2018-12-23 22:43:44 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 22:46:47 evalute_epoch3 ,evaluate_loss:1.6474864963245774 ,evaluate_accuracy:59.700.
+2018-12-23 22:49:52 evalute_epoch3 ,evaluate_loss:1.5950169084261807 ,evaluate_accuracy:59.969.
+2018-12-23 22:52:57 evalute_epoch3 ,evaluate_loss:1.4918376771592843 ,evaluate_accuracy:61.139.
+2018-12-23 22:52:58 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 22:56:00 evalute_epoch3 ,evaluate_loss:1.6574558738729215 ,evaluate_accuracy:53.219.
+2018-12-23 22:59:04 evalute_epoch3 ,evaluate_loss:1.5966911209060104 ,evaluate_accuracy:59.530.
+2018-12-23 23:02:05 evalute_epoch3 ,evaluate_loss:1.6154858986681644 ,evaluate_accuracy:59.808.
+2018-12-23 23:05:11 evalute_epoch3 ,evaluate_loss:1.6511305139167496 ,evaluate_accuracy:60.666.
+2018-12-23 23:08:16 evalute_epoch3 ,evaluate_loss:1.549637638982332 ,evaluate_accuracy:61.781.
+2018-12-23 23:08:16 
+Model saved: multi_val_model/eval_best.model
+2018-12-23 23:11:18 evalute_epoch3 ,evaluate_loss:1.5691326833877444 ,evaluate_accuracy:59.998.
+2018-12-23 23:11:25 epoch3:accuracy: 80.00%	loss: 0.6342	time: 365ms  
+2018-12-23 23:11:46 evalute_epoch3 ,evaluate_loss:1.9033822799985338 ,evaluate_accuracy:52.606.
+2018-12-23 23:14:04 evalute_epoch4 ,evaluate_loss:1.4980454564890293 ,evaluate_accuracy:59.028.
+2018-12-23 23:17:06 evalute_epoch4 ,evaluate_loss:1.5163774988219199 ,evaluate_accuracy:61.491.
+2018-12-23 23:20:10 evalute_epoch4 ,evaluate_loss:1.69141533904232 ,evaluate_accuracy:59.940.
+2018-12-23 23:23:13 evalute_epoch4 ,evaluate_loss:2.4270305980511715 ,evaluate_accuracy:54.331.
+2018-12-23 23:26:15 evalute_epoch4 ,evaluate_loss:2.17312536456503 ,evaluate_accuracy:57.171.
+2018-12-23 23:29:19 evalute_epoch4 ,evaluate_loss:2.29833080234889 ,evaluate_accuracy:54.617.
+2018-12-23 23:32:22 evalute_epoch4 ,evaluate_loss:172223.42500660787 ,evaluate_accuracy:43.472.
+2018-12-23 23:35:25 evalute_epoch4 ,evaluate_loss:19823.611823147727 ,evaluate_accuracy:48.194.
+2018-12-23 23:38:25 evalute_epoch4 ,evaluate_loss:852366.2718344459 ,evaluate_accuracy:52.801.
+2018-12-23 23:41:29 evalute_epoch4 ,evaluate_loss:644954.1934418923 ,evaluate_accuracy:54.525.
+2018-12-23 23:44:34 evalute_epoch4 ,evaluate_loss:262471626994.33972 ,evaluate_accuracy:54.476.
+2018-12-23 23:44:50 epoch4:accuracy: 72.00%	loss: 740926933073.3346    	time: 364ms  
+2018-12-23 23:45:09 evalute_epoch4 ,evaluate_loss:112639578.84224056 ,evaluate_accuracy:54.903.
+2018-12-23 23:47:15 evalute_epoch5 ,evaluate_loss:1.8257588796826352 ,evaluate_accuracy:53.315.
+2018-12-23 23:50:20 evalute_epoch5 ,evaluate_loss:1.8362956866828941 ,evaluate_accuracy:53.634.
+2018-12-23 23:52:49 evalute_epoch5 ,evaluate_loss:1.8324747368186123 ,evaluate_accuracy:54.422.
+2018-12-23 23:54:25 evalute_epoch5 ,evaluate_loss:1.911203163774004 ,evaluate_accuracy:53.340.
+2018-12-23 23:55:59 evalute_epoch5 ,evaluate_loss:1.8705356222929124 ,evaluate_accuracy:53.327.
+2018-12-23 23:57:32 evalute_epoch5 ,evaluate_loss:1.7512881186101472 ,evaluate_accuracy:54.836.
+2018-12-23 23:59:08 evalute_epoch5 ,evaluate_loss:1.8696421090878135 ,evaluate_accuracy:55.218.
+2018-12-24 00:00:45 evalute_epoch5 ,evaluate_loss:1.6833378099733889 ,evaluate_accuracy:57.432.
+2018-12-24 00:02:18 evalute_epoch5 ,evaluate_loss:1.7870973687132594 ,evaluate_accuracy:57.631.
+2018-12-24 00:03:51 evalute_epoch5 ,evaluate_loss:2.0617812046379367 ,evaluate_accuracy:54.650.
+2018-12-24 00:05:26 evalute_epoch5 ,evaluate_loss:1.730156300252654 ,evaluate_accuracy:57.055.
+2018-12-24 00:05:41 epoch5:accuracy: 77.00%	loss: 0.8018               	time: 227ms  
+2018-12-24 00:05:56 evalute_epoch5 ,evaluate_loss:1.8217609213371124 ,evaluate_accuracy:56.901.
+2018-12-24 00:07:00 evalute_epoch6 ,evaluate_loss:1.7177723501545017 ,evaluate_accuracy:57.701.
+2018-12-24 00:08:33 evalute_epoch6 ,evaluate_loss:1.844260907162283 ,evaluate_accuracy:56.010.
+2018-12-24 00:10:09 evalute_epoch6 ,evaluate_loss:1.8355915479297449 ,evaluate_accuracy:57.892.
+2018-12-24 00:11:42 evalute_epoch6 ,evaluate_loss:1.8544266686875843 ,evaluate_accuracy:56.213.
+2018-12-24 00:13:15 evalute_epoch6 ,evaluate_loss:1.8394925020401285 ,evaluate_accuracy:58.232.
+2018-12-24 00:14:49 evalute_epoch6 ,evaluate_loss:2.035155737279951 ,evaluate_accuracy:56.872.
+2018-12-24 00:16:23 evalute_epoch6 ,evaluate_loss:1.7341881881746133 ,evaluate_accuracy:57.370.
+2018-12-24 00:17:56 evalute_epoch6 ,evaluate_loss:1.9708815347872057 ,evaluate_accuracy:55.778.
+2018-12-24 00:19:29 evalute_epoch6 ,evaluate_loss:1.7084487566994793 ,evaluate_accuracy:55.856.
+2018-12-24 00:21:02 evalute_epoch6 ,evaluate_loss:1.8112044357394463 ,evaluate_accuracy:55.898.
+2018-12-24 00:22:36 evalute_epoch6 ,evaluate_loss:1.7850914468782657 ,evaluate_accuracy:56.006.
+2018-12-24 00:23:06 epoch6:accuracy: 81.00%	loss: 0.6511               	time: 190ms  
+2018-12-24 00:23:21 evalute_epoch6 ,evaluate_loss:1.8496259123715868 ,evaluate_accuracy:57.826.
+2018-12-24 00:23:55 evalute_epoch7 ,evaluate_loss:1.7412881918217225 ,evaluate_accuracy:56.176.
+2018-12-24 00:25:28 evalute_epoch7 ,evaluate_loss:1.7733425254909556 ,evaluate_accuracy:57.357.
+2018-12-24 00:27:01 evalute_epoch7 ,evaluate_loss:1.906209877081102 ,evaluate_accuracy:56.230.
+2018-12-24 00:28:34 evalute_epoch7 ,evaluate_loss:1.9802152932226482 ,evaluate_accuracy:56.068.
+2018-12-24 00:30:08 evalute_epoch7 ,evaluate_loss:1.8628363583217318 ,evaluate_accuracy:58.261.
+2018-12-24 00:31:42 evalute_epoch7 ,evaluate_loss:1.870537749683735 ,evaluate_accuracy:56.781.
+2018-12-24 00:33:15 evalute_epoch7 ,evaluate_loss:1.9710792497080294 ,evaluate_accuracy:56.184.
+2018-12-24 00:34:49 evalute_epoch7 ,evaluate_loss:1.7865089198053217 ,evaluate_accuracy:57.610.
+2018-12-24 00:36:22 evalute_epoch7 ,evaluate_loss:1.7889959524903478 ,evaluate_accuracy:56.669.
+2018-12-24 00:37:56 evalute_epoch7 ,evaluate_loss:2.0178380780584 ,evaluate_accuracy:55.118.
+2018-12-24 00:39:32 evalute_epoch7 ,evaluate_loss:1.8653167431674502 ,evaluate_accuracy:55.620.
+2018-12-24 00:40:33 epoch7:accuracy: 83.00%	loss: 0.5587               	time: 190ms  
+2018-12-24 00:40:48 evalute_epoch7 ,evaluate_loss:1.8049497870328568 ,evaluate_accuracy:55.740.
+2018-12-24 00:41:39 evalute_epoch8 ,evaluate_loss:1.8139426458919368 ,evaluate_accuracy:58.390.
+2018-12-24 00:43:13 evalute_epoch8 ,evaluate_loss:2.051396461208096 ,evaluate_accuracy:55.632.
+2018-12-24 00:44:46 evalute_epoch8 ,evaluate_loss:1.8312087677383044 ,evaluate_accuracy:58.191.
+2018-12-24 00:46:20 evalute_epoch8 ,evaluate_loss:2.178921029601229 ,evaluate_accuracy:54.127.
+2018-12-24 00:47:54 evalute_epoch8 ,evaluate_loss:1.9814425436802638 ,evaluate_accuracy:56.901.
+2018-12-24 00:49:28 evalute_epoch8 ,evaluate_loss:1.8322061318021454 ,evaluate_accuracy:59.202.
+2018-12-24 00:51:02 evalute_epoch8 ,evaluate_loss:1.9246493248338699 ,evaluate_accuracy:56.901.
+2018-12-24 00:52:35 evalute_epoch8 ,evaluate_loss:1.8652258178251557 ,evaluate_accuracy:55.960.
+2018-12-24 00:54:10 evalute_epoch8 ,evaluate_loss:1.9967349599984319 ,evaluate_accuracy:56.379.
+2018-12-24 00:55:43 evalute_epoch8 ,evaluate_loss:2.000952546792944 ,evaluate_accuracy:55.263.
+2018-12-24 00:57:20 evalute_epoch8 ,evaluate_loss:1.971643886625868 ,evaluate_accuracy:55.131.
+2018-12-24 00:58:02 epoch8:accuracy: 84.00%	loss: 0.5207               	time: 191ms  
+2018-12-24 00:58:17 evalute_epoch8 ,evaluate_loss:2.033353374680406 ,evaluate_accuracy:56.590.
+2018-12-24 00:59:46 evalute_epoch9 ,evaluate_loss:1.870912059285885 ,evaluate_accuracy:56.408.
+2018-12-24 01:01:20 evalute_epoch9 ,evaluate_loss:1.854763833423412 ,evaluate_accuracy:57.254.
+2018-12-24 01:02:56 evalute_epoch9 ,evaluate_loss:1.9239213232021584 ,evaluate_accuracy:56.445.
+2018-12-24 01:04:30 evalute_epoch9 ,evaluate_loss:1.9799371733239024 ,evaluate_accuracy:56.055.
+2018-12-24 01:06:03 evalute_epoch9 ,evaluate_loss:2.18314592857761 ,evaluate_accuracy:55.516.
+2018-12-24 01:07:36 evalute_epoch9 ,evaluate_loss:1.8958588320548926 ,evaluate_accuracy:56.640.
+2018-12-24 01:09:10 evalute_epoch9 ,evaluate_loss:1.9411725977660361 ,evaluate_accuracy:56.138.
+2018-12-24 01:10:43 evalute_epoch9 ,evaluate_loss:2.107952536217554 ,evaluate_accuracy:56.669.
+2018-12-24 01:12:16 evalute_epoch9 ,evaluate_loss:2.263783794462822 ,evaluate_accuracy:53.294.
+2018-12-24 01:13:50 evalute_epoch9 ,evaluate_loss:2.016466002335986 ,evaluate_accuracy:58.485.
+2018-12-24 01:15:26 evalute_epoch9 ,evaluate_loss:2.000905532935567 ,evaluate_accuracy:56.719.
+2018-12-24 01:15:32 epoch9:accuracy: 85.00% 	loss: 0.4964               	time: 191ms  
+2018-12-24 01:15:46 evalute_epoch9 ,evaluate_loss:2.121418278783435 ,evaluate_accuracy:55.375.
+2018-12-24 01:17:09 evalute_epoch10 ,evaluate_loss:1.885748705711129 ,evaluate_accuracy:55.832.
+2018-12-24 01:18:43 evalute_epoch10 ,evaluate_loss:1.9714350949878188 ,evaluate_accuracy:57.544.
+2018-12-24 01:20:17 evalute_epoch10 ,evaluate_loss:1.9342225428278794 ,evaluate_accuracy:57.357.
+2018-12-24 01:21:52 evalute_epoch10 ,evaluate_loss:2.2377810750742486 ,evaluate_accuracy:57.519.
+2018-12-24 01:23:25 evalute_epoch10 ,evaluate_loss:2.122730064863609 ,evaluate_accuracy:55.433.
+2018-12-24 01:25:02 evalute_epoch10 ,evaluate_loss:2.0854697443862733 ,evaluate_accuracy:57.502.
+2018-12-24 01:26:39 evalute_epoch10 ,evaluate_loss:1.9554002654211917 ,evaluate_accuracy:51.167.
+2018-12-24 01:28:13 evalute_epoch10 ,evaluate_loss:1.7183326700442594 ,evaluate_accuracy:57.967.
+2018-12-24 01:29:47 evalute_epoch10 ,evaluate_loss:1.6860841347203581 ,evaluate_accuracy:60.239.
+2018-12-24 01:31:23 evalute_epoch10 ,evaluate_loss:1.9259923594750903 ,evaluate_accuracy:57.552.
+2018-12-24 01:33:00 evalute_epoch10 ,evaluate_loss:2.01178847960045 ,evaluate_accuracy:59.157.
+2018-12-24 01:33:11 epoch10:accuracy: 81.00% 	loss: 0.6759               	time: 192ms  
+2018-12-24 01:33:26 evalute_epoch10 ,evaluate_loss:1.7530554530780615 ,evaluate_accuracy:60.185.
+2018-12-24 01:34:37 evalute_epoch11 ,evaluate_loss:1.6901336623995729 ,evaluate_accuracy:59.692.
+2018-12-24 01:36:11 evalute_epoch11 ,evaluate_loss:1.8572008819088592 ,evaluate_accuracy:58.875.
+2018-12-24 01:37:44 evalute_epoch11 ,evaluate_loss:1.9854888887151152 ,evaluate_accuracy:58.788.
+2018-12-24 01:39:20 evalute_epoch11 ,evaluate_loss:1.9746487099582952 ,evaluate_accuracy:56.553.
+2018-12-24 01:40:54 evalute_epoch11 ,evaluate_loss:1.9937072890458938 ,evaluate_accuracy:56.731.
+2018-12-24 01:42:29 evalute_epoch11 ,evaluate_loss:1.8636799853033597 ,evaluate_accuracy:58.497.
+2018-12-24 01:44:03 evalute_epoch11 ,evaluate_loss:1.9344773617069135 ,evaluate_accuracy:57.216.
+2018-12-24 01:45:36 evalute_epoch11 ,evaluate_loss:2.0237396357343083 ,evaluate_accuracy:57.167.
+2018-12-24 01:47:12 evalute_epoch11 ,evaluate_loss:1.9934804385127236 ,evaluate_accuracy:56.445.
+2018-12-24 01:48:45 evalute_epoch11 ,evaluate_loss:1.9470809130403917 ,evaluate_accuracy:59.368.
+2018-12-24 01:50:18 evalute_epoch11 ,evaluate_loss:2.0061135084466253 ,evaluate_accuracy:57.660.
+2018-12-24 01:50:41 epoch11:accuracy: 86.00% 	loss: 0.4622               	time: 191ms  
+2018-12-24 01:50:55 evalute_epoch11 ,evaluate_loss:1.9744079618036037 ,evaluate_accuracy:56.142.
+2018-12-24 01:51:44 evalute_epoch12 ,evaluate_loss:1.7140579867448977 ,evaluate_accuracy:57.444.
+2018-12-24 01:53:18 evalute_epoch12 ,evaluate_loss:1.9344609795757834 ,evaluate_accuracy:56.769.
+2018-12-24 01:54:50 evalute_epoch12 ,evaluate_loss:1.8867946554215829 ,evaluate_accuracy:58.738.
+2018-12-24 01:56:23 evalute_epoch12 ,evaluate_loss:2.0463739702409858 ,evaluate_accuracy:57.527.
+2018-12-24 01:57:57 evalute_epoch12 ,evaluate_loss:2.0290555845638862 ,evaluate_accuracy:56.578.
+2018-12-24 01:59:29 evalute_epoch12 ,evaluate_loss:1.8832627550633059 ,evaluate_accuracy:58.531.
+2018-12-24 02:01:03 evalute_epoch12 ,evaluate_loss:1.922130518397702 ,evaluate_accuracy:58.800.
+2018-12-24 02:02:37 evalute_epoch12 ,evaluate_loss:1.9570046428365047 ,evaluate_accuracy:57.817.
+2018-12-24 02:04:10 evalute_epoch12 ,evaluate_loss:1.7994884549644714 ,evaluate_accuracy:58.012.
+2018-12-24 02:05:43 evalute_epoch12 ,evaluate_loss:1.9811819367723296 ,evaluate_accuracy:57.349.
+2018-12-24 02:07:16 evalute_epoch12 ,evaluate_loss:1.967660818642074 ,evaluate_accuracy:57.797.
+2018-12-24 02:08:02 epoch12:accuracy: 87.00% 	loss: 0.4205               	time: 189ms  
+2018-12-24 02:08:16 evalute_epoch12 ,evaluate_loss:2.18526336230312 ,evaluate_accuracy:56.690.
+2018-12-24 02:09:37 evalute_epoch13 ,evaluate_loss:1.896040065148472 ,evaluate_accuracy:56.669.
+2018-12-24 02:11:11 evalute_epoch13 ,evaluate_loss:1.7310020607686902 ,evaluate_accuracy:57.701.
+2018-12-24 02:12:43 evalute_epoch13 ,evaluate_loss:2.044889184618931 ,evaluate_accuracy:57.739.
+2018-12-24 02:14:17 evalute_epoch13 ,evaluate_loss:2.181257941581612 ,evaluate_accuracy:56.358.
+2018-12-24 02:15:49 evalute_epoch13 ,evaluate_loss:2.201004057530765 ,evaluate_accuracy:54.965.
+2018-12-24 02:17:22 evalute_epoch13 ,evaluate_loss:1.8938870765789315 ,evaluate_accuracy:57.142.
+2018-12-24 02:18:55 evalute_epoch13 ,evaluate_loss:1.909229252719875 ,evaluate_accuracy:56.752.
+2018-12-24 02:20:30 evalute_epoch13 ,evaluate_loss:2.034857213850554 ,evaluate_accuracy:57.382.
+2018-12-24 02:22:06 evalute_epoch13 ,evaluate_loss:2.0022042491917507 ,evaluate_accuracy:55.421.
+2018-12-24 02:23:40 evalute_epoch13 ,evaluate_loss:2.2915107667819297 ,evaluate_accuracy:55.678.
+2018-12-24 02:25:13 evalute_epoch13 ,evaluate_loss:2.0289258913661894 ,evaluate_accuracy:57.813.
+2018-12-24 02:25:25 epoch13:accuracy: 87.00% 	loss: 0.4815               	time: 189ms  
+2018-12-24 02:25:39 evalute_epoch13 ,evaluate_loss:2.0336154070683015 ,evaluate_accuracy:56.524.
+2018-12-24 02:26:49 evalute_epoch14 ,evaluate_loss:1.7759532985899191 ,evaluate_accuracy:59.070.
+2018-12-24 02:28:23 evalute_epoch14 ,evaluate_loss:2.0996254779661943 ,evaluate_accuracy:57.125.
+2018-12-24 02:29:57 evalute_epoch14 ,evaluate_loss:1.9236332717693694 ,evaluate_accuracy:60.156.
+2018-12-24 02:31:30 evalute_epoch14 ,evaluate_loss:1.9617208656502965 ,evaluate_accuracy:58.054.
+2018-12-24 02:33:03 evalute_epoch14 ,evaluate_loss:2.0913115688370474 ,evaluate_accuracy:59.173.
+2018-12-24 02:34:37 evalute_epoch14 ,evaluate_loss:2.380665033510794 ,evaluate_accuracy:57.540.
+2018-12-24 02:36:10 evalute_epoch14 ,evaluate_loss:2.177825894569885 ,evaluate_accuracy:55.529.
+2018-12-24 02:37:44 evalute_epoch14 ,evaluate_loss:2.157513115154856 ,evaluate_accuracy:55.873.
+2018-12-24 02:39:18 evalute_epoch14 ,evaluate_loss:2.047636520912499 ,evaluate_accuracy:58.220.
+2018-12-24 02:40:51 evalute_epoch14 ,evaluate_loss:2.0760547536548044 ,evaluate_accuracy:57.013.
+2018-12-24 02:42:24 evalute_epoch14 ,evaluate_loss:2.3331963846530184 ,evaluate_accuracy:57.021.
+2018-12-24 02:42:48 epoch14:accuracy: 88.00% 	loss: 0.4968               	time: 189ms  
+2018-12-24 02:43:03 evalute_epoch14 ,evaluate_loss:2.6048677900378308 ,evaluate_accuracy:55.666.
+2018-12-24 02:43:49 evalute_epoch15 ,evaluate_loss:1.8521411913762593 ,evaluate_accuracy:57.934.
+2018-12-24 02:45:23 evalute_epoch15 ,evaluate_loss:2.178274872429637 ,evaluate_accuracy:56.930.
+2018-12-24 02:46:56 evalute_epoch15 ,evaluate_loss:2.040351794728731 ,evaluate_accuracy:56.333.
+2018-12-24 02:48:29 evalute_epoch15 ,evaluate_loss:2.132440107587094 ,evaluate_accuracy:57.448.
+2018-12-24 02:50:02 evalute_epoch15 ,evaluate_loss:2.094500232669092 ,evaluate_accuracy:58.095.
+2018-12-24 02:51:35 evalute_epoch15 ,evaluate_loss:1.9738167404085603 ,evaluate_accuracy:58.489.
+2018-12-24 02:53:08 evalute_epoch15 ,evaluate_loss:2.0165945178186564 ,evaluate_accuracy:57.996.
+2018-12-24 02:54:41 evalute_epoch15 ,evaluate_loss:2.301528508669405 ,evaluate_accuracy:56.835.
+2018-12-24 02:56:14 evalute_epoch15 ,evaluate_loss:1.8893431800876448 ,evaluate_accuracy:57.274.
+2018-12-24 02:57:47 evalute_epoch15 ,evaluate_loss:18.54870083871887 ,evaluate_accuracy:14.105.
+2018-12-24 02:59:20 evalute_epoch15 ,evaluate_loss:3.2767624914945173 ,evaluate_accuracy:12.256.
+2018-12-24 03:00:08 epoch15:accuracy: 73.00% 	loss: 28951.4273           	time: 189ms  
+2018-12-24 03:00:23 evalute_epoch15 ,evaluate_loss:2.734825001055934 ,evaluate_accuracy:27.638.
+2018-12-24 03:01:40 evalute_epoch16 ,evaluate_loss:1.7032025998403513 ,evaluate_accuracy:54.322.
+2018-12-24 03:03:13 evalute_epoch16 ,evaluate_loss:1.8111291133407001 ,evaluate_accuracy:57.328.
+2018-12-24 03:04:46 evalute_epoch16 ,evaluate_loss:1.8104609615930578 ,evaluate_accuracy:59.405.
+2018-12-24 03:06:22 evalute_epoch16 ,evaluate_loss:2.0298986907740564 ,evaluate_accuracy:57.138.
+2018-12-24 03:07:55 evalute_epoch16 ,evaluate_loss:1.9496765318307925 ,evaluate_accuracy:57.357.
+2018-12-24 03:09:28 evalute_epoch16 ,evaluate_loss:1.9636334598674827 ,evaluate_accuracy:59.766.
+2018-12-24 03:11:02 evalute_epoch16 ,evaluate_loss:2.1731633797397296 ,evaluate_accuracy:57.772.
+2018-12-24 03:12:38 evalute_epoch16 ,evaluate_loss:1.9848139573005534 ,evaluate_accuracy:58.153.
+2018-12-24 03:14:11 evalute_epoch16 ,evaluate_loss:2.115135568702363 ,evaluate_accuracy:56.661.
+2018-12-24 03:15:44 evalute_epoch16 ,evaluate_loss:2.1058472737511167 ,evaluate_accuracy:57.444.
+2018-12-24 03:17:20 evalute_epoch16 ,evaluate_loss:2.3018539731511134 ,evaluate_accuracy:54.870.
+2018-12-24 03:17:37 epoch16:accuracy: 85.00% 	loss: 0.4789               	time: 190ms  
+2018-12-24 03:17:52 evalute_epoch16 ,evaluate_loss:2.171412984887642 ,evaluate_accuracy:56.909.
+2018-12-24 03:18:53 evalute_epoch17 ,evaluate_loss:1.6444283545998337 ,evaluate_accuracy:57.291.
+2018-12-24 03:20:27 evalute_epoch17 ,evaluate_loss:2.0177779834886023 ,evaluate_accuracy:56.495.
+2018-12-24 03:22:03 evalute_epoch17 ,evaluate_loss:2.127939167932727 ,evaluate_accuracy:56.387.
+2018-12-24 03:23:38 evalute_epoch17 ,evaluate_loss:2.0679229562310932 ,evaluate_accuracy:57.436.
+2018-12-24 03:25:12 evalute_epoch17 ,evaluate_loss:2.0935275354335556 ,evaluate_accuracy:57.216.
+2018-12-24 03:26:47 evalute_epoch17 ,evaluate_loss:2.219289018332926 ,evaluate_accuracy:55.545.
+2018-12-24 03:28:21 evalute_epoch17 ,evaluate_loss:2.0249199699350218 ,evaluate_accuracy:58.680.
+2018-12-24 03:29:55 evalute_epoch17 ,evaluate_loss:2.0981691146085715 ,evaluate_accuracy:57.191.
+2018-12-24 03:31:28 evalute_epoch17 ,evaluate_loss:2.122753100982575 ,evaluate_accuracy:57.183.
+2018-12-24 03:33:02 evalute_epoch17 ,evaluate_loss:2.1800470764282416 ,evaluate_accuracy:58.008.
+2018-12-24 03:34:36 evalute_epoch17 ,evaluate_loss:2.3673469178479594 ,evaluate_accuracy:54.546.
+2018-12-24 03:35:11 epoch17:accuracy: 88.00% 	loss: 0.5343               	time: 191ms  
+2018-12-24 03:35:25 evalute_epoch17 ,evaluate_loss:2.1450308442160266 ,evaluate_accuracy:56.876.
+2018-12-24 03:35:52 evalute_epoch18 ,evaluate_loss:1.6874212725274504 ,evaluate_accuracy:57.026.
+2018-12-24 03:37:25 evalute_epoch18 ,evaluate_loss:2.2106431783681444 ,evaluate_accuracy:57.138.
+2018-12-24 03:38:58 evalute_epoch18 ,evaluate_loss:2.0815751457932015 ,evaluate_accuracy:57.726.
+2018-12-24 03:40:33 evalute_epoch18 ,evaluate_loss:2.1048037890667515 ,evaluate_accuracy:57.515.
+2018-12-24 03:42:07 evalute_epoch18 ,evaluate_loss:2.185397343946149 ,evaluate_accuracy:57.722.
+2018-12-24 03:43:43 evalute_epoch18 ,evaluate_loss:2.1722688437783355 ,evaluate_accuracy:57.677.
+2018-12-24 03:45:19 evalute_epoch18 ,evaluate_loss:2.196101712332401 ,evaluate_accuracy:57.312.
+2018-12-24 03:46:52 evalute_epoch18 ,evaluate_loss:2.212949702779157 ,evaluate_accuracy:55.670.
+2018-12-24 03:48:26 evalute_epoch18 ,evaluate_loss:2.26547852286682 ,evaluate_accuracy:56.196.
+2018-12-24 03:50:00 evalute_epoch18 ,evaluate_loss:2.194654725391605 ,evaluate_accuracy:57.971.
+2018-12-24 03:51:34 evalute_epoch18 ,evaluate_loss:2.285791235186774 ,evaluate_accuracy:55.587.
+2018-12-24 03:52:42 epoch18:accuracy: 89.00% 	loss: 3.3897               	time: 191ms  
+2018-12-24 03:52:57 evalute_epoch18 ,evaluate_loss:1.9103387501253715 ,evaluate_accuracy:56.872.
+2018-12-24 03:53:34 evalute_epoch19 ,evaluate_loss:1.6271801712234308 ,evaluate_accuracy:58.784.
+2018-12-24 03:55:07 evalute_epoch19 ,evaluate_loss:2.090356129596441 ,evaluate_accuracy:59.119.
+2018-12-24 03:56:40 evalute_epoch19 ,evaluate_loss:2.129699981461226 ,evaluate_accuracy:57.938.
+2018-12-24 03:58:13 evalute_epoch19 ,evaluate_loss:2.2417437171327115 ,evaluate_accuracy:58.278.
+2018-12-24 03:59:47 evalute_epoch19 ,evaluate_loss:2.190937013648637 ,evaluate_accuracy:56.159.
+2018-12-24 04:01:20 evalute_epoch19 ,evaluate_loss:2.080593372252288 ,evaluate_accuracy:57.220.
+2018-12-24 04:02:53 evalute_epoch19 ,evaluate_loss:2.267154724178111 ,evaluate_accuracy:55.404.
+2018-12-24 04:04:26 evalute_epoch19 ,evaluate_loss:2.2226492912300073 ,evaluate_accuracy:56.462.
+2018-12-24 04:05:59 evalute_epoch19 ,evaluate_loss:2.232384001310649 ,evaluate_accuracy:57.759.
+2018-12-24 04:07:33 evalute_epoch19 ,evaluate_loss:2.1289811873051443 ,evaluate_accuracy:56.814.
+2018-12-24 04:09:07 evalute_epoch19 ,evaluate_loss:2.220506477021841 ,evaluate_accuracy:57.465.
+2018-12-24 04:10:04 epoch19:accuracy: 89.00% 	loss: 0.3404               	time: 189ms  
+2018-12-24 04:10:19 evalute_epoch19 ,evaluate_loss:2.2405052769366494 ,evaluate_accuracy:56.959.
+2018-12-24 04:11:17 evalute_epoch20 ,evaluate_loss:1.815441554135077 ,evaluate_accuracy:58.340.
+2018-12-24 04:12:50 evalute_epoch20 ,evaluate_loss:2.051680597095892 ,evaluate_accuracy:57.693.
+2018-12-24 04:14:23 evalute_epoch20 ,evaluate_loss:2.1460038432830197 ,evaluate_accuracy:57.453.
+2018-12-24 04:15:57 evalute_epoch20 ,evaluate_loss:1.9676145563088443 ,evaluate_accuracy:58.340.
+2018-12-24 04:17:30 evalute_epoch20 ,evaluate_loss:1.8862655602154277 ,evaluate_accuracy:58.070.
+2018-12-24 04:19:03 evalute_epoch20 ,evaluate_loss:2.3978173942025007 ,evaluate_accuracy:57.245.
+2018-12-24 04:20:36 evalute_epoch20 ,evaluate_loss:2.111838997376638 ,evaluate_accuracy:58.551.
+2018-12-24 04:22:09 evalute_epoch20 ,evaluate_loss:2.5619130529096616 ,evaluate_accuracy:57.142.
+2018-12-24 04:23:43 evalute_epoch20 ,evaluate_loss:2.197599576418018 ,evaluate_accuracy:56.540.
+2018-12-24 04:25:16 evalute_epoch20 ,evaluate_loss:2.1563563093112434 ,evaluate_accuracy:57.278.
+2018-12-24 04:26:50 evalute_epoch20 ,evaluate_loss:2.147078334061906 ,evaluate_accuracy:57.332.
+2018-12-24 04:27:27 epoch20:accuracy: 89.00% 	loss: 0.3858               	time: 189ms  
+2018-12-24 04:27:42 evalute_epoch20 ,evaluate_loss:2.218518680302212 ,evaluate_accuracy:57.320.
+2018-12-24 04:28:04 evalute_epoch21 ,evaluate_loss:2.6690538242200432 ,evaluate_accuracy:44.799.
+2018-12-24 04:29:37 evalute_epoch21 ,evaluate_loss:2.080898049805037 ,evaluate_accuracy:57.987.
+2018-12-24 04:31:10 evalute_epoch21 ,evaluate_loss:2.1359329548654697 ,evaluate_accuracy:57.979.
+2018-12-24 04:32:43 evalute_epoch21 ,evaluate_loss:2.361386164616943 ,evaluate_accuracy:57.361.
+2018-12-24 04:34:16 evalute_epoch21 ,evaluate_loss:2.1614090636958876 ,evaluate_accuracy:59.497.
+2018-12-24 04:35:50 evalute_epoch21 ,evaluate_loss:2.173403265217336 ,evaluate_accuracy:56.524.
+2018-12-24 04:37:22 evalute_epoch21 ,evaluate_loss:2.298960237302582 ,evaluate_accuracy:57.473.
+2018-12-24 04:38:57 evalute_epoch21 ,evaluate_loss:2.171986682601145 ,evaluate_accuracy:58.245.
+2018-12-24 04:40:33 evalute_epoch21 ,evaluate_loss:2.044931083301035 ,evaluate_accuracy:58.531.
+2018-12-24 04:42:07 evalute_epoch21 ,evaluate_loss:2.187387348995749 ,evaluate_accuracy:58.609.
+2018-12-24 04:43:43 evalute_epoch21 ,evaluate_loss:2.2095232075771847 ,evaluate_accuracy:58.041.
+2018-12-24 04:44:56 epoch21:accuracy: 89.00% 	loss: 0.3321               	time: 190ms  
+2018-12-24 04:45:10 evalute_epoch21 ,evaluate_loss:2.283047815110386 ,evaluate_accuracy:56.433.
+2018-12-24 04:45:41 evalute_epoch22 ,evaluate_loss:1.9904872766848478 ,evaluate_accuracy:58.721.
+2018-12-24 04:47:14 evalute_epoch22 ,evaluate_loss:1.9075566941892395 ,evaluate_accuracy:59.099.
+2018-12-24 04:48:47 evalute_epoch22 ,evaluate_loss:2.1247019074865574 ,evaluate_accuracy:57.975.
+2018-12-24 04:50:20 evalute_epoch22 ,evaluate_loss:2.3225631192131933 ,evaluate_accuracy:58.410.
+2018-12-24 04:51:54 evalute_epoch22 ,evaluate_loss:2.038127456999788 ,evaluate_accuracy:57.743.
+2018-12-24 04:53:27 evalute_epoch22 ,evaluate_loss:2.3616693411020107 ,evaluate_accuracy:57.900.
+2018-12-24 04:55:00 evalute_epoch22 ,evaluate_loss:2.2053208460118414 ,evaluate_accuracy:57.507.
+2018-12-24 04:56:36 evalute_epoch22 ,evaluate_loss:2.011746844326443 ,evaluate_accuracy:60.778.
+2018-12-24 04:58:12 evalute_epoch22 ,evaluate_loss:2.418435381915796 ,evaluate_accuracy:55.952.
+2018-12-24 04:59:45 evalute_epoch22 ,evaluate_loss:2.4459896650800284 ,evaluate_accuracy:56.259.
+2018-12-24 05:01:18 evalute_epoch22 ,evaluate_loss:14734734.096189726 ,evaluate_accuracy:51.930.
+2018-12-24 05:02:24 epoch22:accuracy: 88.00% 	loss: 263293.4554          	time: 190ms  
+2018-12-24 05:02:38 evalute_epoch22 ,evaluate_loss:4.153837808571604 ,evaluate_accuracy:55.662.
+2018-12-24 05:03:21 evalute_epoch23 ,evaluate_loss:1.7152775985802469 ,evaluate_accuracy:59.231.
+2018-12-24 05:04:55 evalute_epoch23 ,evaluate_loss:1.8433455779256995 ,evaluate_accuracy:58.937.
+2018-12-24 05:06:31 evalute_epoch23 ,evaluate_loss:2.00011006831589 ,evaluate_accuracy:58.738.
+2018-12-24 05:08:04 evalute_epoch23 ,evaluate_loss:2.1244880420028127 ,evaluate_accuracy:58.274.
+2018-12-24 05:09:40 evalute_epoch23 ,evaluate_loss:2.1732146853836 ,evaluate_accuracy:59.517.
+2018-12-24 05:11:13 evalute_epoch23 ,evaluate_loss:2.3216071224977752 ,evaluate_accuracy:57.237.
+2018-12-24 05:12:48 evalute_epoch23 ,evaluate_loss:2.1107722217504143 ,evaluate_accuracy:58.037.
+2018-12-24 05:14:21 evalute_epoch23 ,evaluate_loss:2.089388184733462 ,evaluate_accuracy:57.453.
+2018-12-24 05:15:54 evalute_epoch23 ,evaluate_loss:2.203811250677393 ,evaluate_accuracy:58.236.
+2018-12-24 05:17:28 evalute_epoch23 ,evaluate_loss:2.0519559287803477 ,evaluate_accuracy:58.576.
+2018-12-24 05:19:02 evalute_epoch23 ,evaluate_loss:2.1467502608001316 ,evaluate_accuracy:56.980.
+2018-12-24 05:19:53 epoch23:accuracy: 89.00% 	loss: 0.3931               	time: 191ms  
+2018-12-24 05:20:08 evalute_epoch23 ,evaluate_loss:2.2482968658805658 ,evaluate_accuracy:58.833.
+2018-12-24 05:21:19 evalute_epoch24 ,evaluate_loss:1.7197190988191824 ,evaluate_accuracy:59.824.
+2018-12-24 05:22:52 evalute_epoch24 ,evaluate_loss:2.270587546892924 ,evaluate_accuracy:57.797.
+2018-12-24 05:24:25 evalute_epoch24 ,evaluate_loss:2.29239093101293 ,evaluate_accuracy:57.992.
+2018-12-24 05:25:58 evalute_epoch24 ,evaluate_loss:2.1406416784862445 ,evaluate_accuracy:58.705.
+2018-12-24 05:27:31 evalute_epoch24 ,evaluate_loss:2.1429865872011318 ,evaluate_accuracy:58.336.
+2018-12-24 05:29:04 evalute_epoch24 ,evaluate_loss:2.2721945946081847 ,evaluate_accuracy:58.224.
+2018-12-24 05:30:40 evalute_epoch24 ,evaluate_loss:2.066602178402636 ,evaluate_accuracy:58.174.
+2018-12-24 05:32:13 evalute_epoch24 ,evaluate_loss:2.0613755095167647 ,evaluate_accuracy:57.834.
+2018-12-24 05:33:46 evalute_epoch24 ,evaluate_loss:2.201922072280456 ,evaluate_accuracy:56.474.
+2018-12-24 05:35:19 evalute_epoch24 ,evaluate_loss:2.211432639271116 ,evaluate_accuracy:58.713.
+2018-12-24 05:36:52 evalute_epoch24 ,evaluate_loss:2.1839377154085717 ,evaluate_accuracy:57.987.
+2018-12-24 05:37:16 epoch24:accuracy: 90.00% 	loss: 0.3129               	time: 189ms  
+2018-12-24 05:37:30 evalute_epoch24 ,evaluate_loss:2.264476040069072 ,evaluate_accuracy:58.099.
+2018-12-24 05:38:18 evalute_epoch25 ,evaluate_loss:1.857998248109217 ,evaluate_accuracy:58.755.
+2018-12-24 05:39:52 evalute_epoch25 ,evaluate_loss:2.160493934039349 ,evaluate_accuracy:58.352.
+2018-12-24 05:41:27 evalute_epoch25 ,evaluate_loss:2.1041355610704375 ,evaluate_accuracy:58.025.
+2018-12-24 05:43:00 evalute_epoch25 ,evaluate_loss:2.1742037588933485 ,evaluate_accuracy:58.680.
+2018-12-24 05:44:33 evalute_epoch25 ,evaluate_loss:2.1305098766720882 ,evaluate_accuracy:58.315.
+2018-12-24 05:46:07 evalute_epoch25 ,evaluate_loss:2.30750313710255 ,evaluate_accuracy:56.893.
+2018-12-24 05:47:40 evalute_epoch25 ,evaluate_loss:2.133942312395362 ,evaluate_accuracy:58.813.
+2018-12-24 05:49:16 evalute_epoch25 ,evaluate_loss:1.7683192993199885 ,evaluate_accuracy:60.073.
+2018-12-24 05:50:50 evalute_epoch25 ,evaluate_loss:1.9974913692201537 ,evaluate_accuracy:59.065.
+2018-12-24 05:52:24 evalute_epoch25 ,evaluate_loss:2.0578046291343726 ,evaluate_accuracy:57.556.
+2018-12-24 05:53:57 evalute_epoch25 ,evaluate_loss:2.1664681080992114 ,evaluate_accuracy:58.647.
+2018-12-24 05:54:44 epoch25:accuracy: 91.00% 	loss: 0.3188               	time: 190ms  
+2018-12-24 05:54:59 evalute_epoch25 ,evaluate_loss:2.290884682301725 ,evaluate_accuracy:58.162.
+2018-12-24 05:56:20 evalute_epoch26 ,evaluate_loss:1.8245818747667102 ,evaluate_accuracy:58.133.
+2018-12-24 05:57:56 evalute_epoch26 ,evaluate_loss:2.22771133643645 ,evaluate_accuracy:58.203.
+2018-12-24 05:59:29 evalute_epoch26 ,evaluate_loss:2.441713841080374 ,evaluate_accuracy:57.469.
+2018-12-24 06:01:02 evalute_epoch26 ,evaluate_loss:2.3681909995587334 ,evaluate_accuracy:58.373.
+2018-12-24 06:02:36 evalute_epoch26 ,evaluate_loss:2.1619258561465093 ,evaluate_accuracy:58.195.
+2018-12-24 06:04:09 evalute_epoch26 ,evaluate_loss:2.3866325098808203 ,evaluate_accuracy:56.449.
+2018-12-24 06:05:43 evalute_epoch26 ,evaluate_loss:2.310081284345395 ,evaluate_accuracy:56.495.
+2018-12-24 06:07:16 evalute_epoch26 ,evaluate_loss:2.2937163460575443 ,evaluate_accuracy:58.033.
+2018-12-24 06:08:52 evalute_epoch26 ,evaluate_loss:2.716818129632291 ,evaluate_accuracy:59.376.
+2018-12-24 06:10:25 evalute_epoch26 ,evaluate_loss:133675.2190266232 ,evaluate_accuracy:9.486.
+2018-12-24 06:11:58 evalute_epoch26 ,evaluate_loss:43.17234085760651 ,evaluate_accuracy:8.002.
+2018-12-24 06:12:13 epoch26:accuracy: 76.00% 	loss: 59767838.4533        	time: 191ms  
+2018-12-24 06:12:27 evalute_epoch26 ,evaluate_loss:2.9600726508042463 ,evaluate_accuracy:21.158.
+2018-12-24 06:13:34 evalute_epoch27 ,evaluate_loss:1.6955390339136134 ,evaluate_accuracy:55.807.
+2018-12-24 06:15:08 evalute_epoch27 ,evaluate_loss:1.8231224575674976 ,evaluate_accuracy:56.972.
+2018-12-24 06:16:41 evalute_epoch27 ,evaluate_loss:1.946615481372694 ,evaluate_accuracy:56.412.
+2018-12-24 06:18:15 evalute_epoch27 ,evaluate_loss:1.9797731746344767 ,evaluate_accuracy:54.845.
+2018-12-24 06:19:48 evalute_epoch27 ,evaluate_loss:2.024857687398546 ,evaluate_accuracy:56.503.
+2018-12-24 06:21:20 evalute_epoch27 ,evaluate_loss:2.16734244178058 ,evaluate_accuracy:55.599.
+2018-12-24 06:22:54 evalute_epoch27 ,evaluate_loss:2.2532783432917056 ,evaluate_accuracy:55.682.
+2018-12-24 06:24:28 evalute_epoch27 ,evaluate_loss:2.1103949029823554 ,evaluate_accuracy:56.769.
+2018-12-24 06:26:01 evalute_epoch27 ,evaluate_loss:2.3644649548892174 ,evaluate_accuracy:56.827.
+2018-12-24 06:27:37 evalute_epoch27 ,evaluate_loss:2.2484684436889353 ,evaluate_accuracy:56.872.
+2018-12-24 06:29:11 evalute_epoch27 ,evaluate_loss:2.083824150706312 ,evaluate_accuracy:56.482.
+2018-12-24 06:29:40 epoch27:accuracy: 85.00% 	loss: 0.4721               	time: 190ms  
+2018-12-24 06:29:55 evalute_epoch27 ,evaluate_loss:2.157385298400046 ,evaluate_accuracy:57.117.
+2018-12-24 06:30:31 evalute_epoch28 ,evaluate_loss:1.7357140578630132 ,evaluate_accuracy:57.179.
+2018-12-24 06:32:04 evalute_epoch28 ,evaluate_loss:2.159847572789994 ,evaluate_accuracy:54.961.
+2018-12-24 06:33:40 evalute_epoch28 ,evaluate_loss:2.4300461625513132 ,evaluate_accuracy:54.857.
+2018-12-24 06:35:14 evalute_epoch28 ,evaluate_loss:2.166336574346461 ,evaluate_accuracy:55.326.
+2018-12-24 06:36:47 evalute_epoch28 ,evaluate_loss:2.2358648119945865 ,evaluate_accuracy:57.453.
+2018-12-24 06:38:19 evalute_epoch28 ,evaluate_loss:2.300451809595145 ,evaluate_accuracy:55.972.
+2018-12-24 06:39:54 evalute_epoch28 ,evaluate_loss:2.3914438258000703 ,evaluate_accuracy:55.740.
+2018-12-24 06:41:27 evalute_epoch28 ,evaluate_loss:2.4250678355294757 ,evaluate_accuracy:55.794.
+2018-12-24 06:43:01 evalute_epoch28 ,evaluate_loss:2.3493306553182407 ,evaluate_accuracy:57.735.
+2018-12-24 06:44:34 evalute_epoch28 ,evaluate_loss:2.5093551952697837 ,evaluate_accuracy:55.616.
+2018-12-24 06:46:07 evalute_epoch28 ,evaluate_loss:2.5112684399558023 ,evaluate_accuracy:56.026.
+2018-12-24 06:47:04 epoch28:accuracy: 89.00% 	loss: 0.4760               	time: 190ms  
+2018-12-24 06:47:19 evalute_epoch28 ,evaluate_loss:2.865097759582445 ,evaluate_accuracy:56.835.
+2018-12-24 06:48:16 evalute_epoch29 ,evaluate_loss:1.9011411776446383 ,evaluate_accuracy:57.900.
+2018-12-24 06:49:49 evalute_epoch29 ,evaluate_loss:2.3296906511465005 ,evaluate_accuracy:56.735.
+2018-12-24 06:51:23 evalute_epoch29 ,evaluate_loss:2.2583362688309094 ,evaluate_accuracy:54.355.
+2018-12-24 06:52:56 evalute_epoch29 ,evaluate_loss:2.305483848846267 ,evaluate_accuracy:55.939.
+2018-12-24 06:54:30 evalute_epoch29 ,evaluate_loss:2.394779523889186 ,evaluate_accuracy:55.989.
+2018-12-24 06:56:03 evalute_epoch29 ,evaluate_loss:2.510716515239028 ,evaluate_accuracy:56.586.
+2018-12-24 06:57:36 evalute_epoch29 ,evaluate_loss:2.6644414187199272 ,evaluate_accuracy:55.152.
+2018-12-24 06:59:09 evalute_epoch29 ,evaluate_loss:2.473431275057859 ,evaluate_accuracy:56.072.
+2018-12-24 07:00:43 evalute_epoch29 ,evaluate_loss:2.5127807377513514 ,evaluate_accuracy:56.400.
+2018-12-24 07:02:16 evalute_epoch29 ,evaluate_loss:2.4297417653398266 ,evaluate_accuracy:56.586.
+2018-12-24 07:03:49 evalute_epoch29 ,evaluate_loss:2.536357184360709 ,evaluate_accuracy:55.765.
+2018-12-24 07:04:26 epoch29:accuracy: 91.00% 	loss: 0.3312               	time: 189ms  
+2018-12-24 07:04:41 evalute_epoch29 ,evaluate_loss:2.613226898916869 ,evaluate_accuracy:53.962.
+2018-12-24 07:05:01 evalute_epoch30 ,evaluate_loss:6.998446900728227 ,evaluate_accuracy:13.641.
+2018-12-24 07:06:34 evalute_epoch30 ,evaluate_loss:1.671686592853911 ,evaluate_accuracy:56.437.
+2018-12-24 07:08:11 evalute_epoch30 ,evaluate_loss:1.7606279858062455 ,evaluate_accuracy:58.895.
+2018-12-24 07:09:45 evalute_epoch30 ,evaluate_loss:1.8428713015900298 ,evaluate_accuracy:57.573.
+2018-12-24 07:11:18 evalute_epoch30 ,evaluate_loss:1.8763928981932287 ,evaluate_accuracy:57.167.
+2018-12-24 07:12:53 evalute_epoch30 ,evaluate_loss:2.050891805028257 ,evaluate_accuracy:57.519.
+2018-12-24 07:14:27 evalute_epoch30 ,evaluate_loss:1.9644237647004583 ,evaluate_accuracy:58.651.
+2018-12-24 07:16:01 evalute_epoch30 ,evaluate_loss:2.4158650270183117 ,evaluate_accuracy:55.570.
+2018-12-24 07:17:36 evalute_epoch30 ,evaluate_loss:2.044248974393951 ,evaluate_accuracy:56.238.
+2018-12-24 07:19:10 evalute_epoch30 ,evaluate_loss:2.108033247747065 ,evaluate_accuracy:58.356.
+2018-12-24 07:20:44 evalute_epoch30 ,evaluate_loss:2.163903759236488 ,evaluate_accuracy:57.714.
+2018-12-24 07:21:58 epoch30:accuracy: 85.00% 	loss: 0.4874               	time: 191ms  
+2018-12-24 07:22:13 evalute_epoch30 ,evaluate_loss:2.113764809926522 ,evaluate_accuracy:56.698.
+2018-12-24 07:22:38 evalute_epoch31 ,evaluate_loss:2.1982075363611364 ,evaluate_accuracy:53.866.
+2018-12-24 07:24:12 evalute_epoch31 ,evaluate_loss:2.2599096665696137 ,evaluate_accuracy:55.288.
+2018-12-24 07:25:47 evalute_epoch31 ,evaluate_loss:2.378099503848895 ,evaluate_accuracy:56.429.
+2018-12-24 07:27:20 evalute_epoch31 ,evaluate_loss:2.2566351925458346 ,evaluate_accuracy:56.578.
+2018-12-24 07:28:54 evalute_epoch31 ,evaluate_loss:2.429278164826458 ,evaluate_accuracy:55.682.
+2018-12-24 07:30:29 evalute_epoch31 ,evaluate_loss:2.310897325040037 ,evaluate_accuracy:56.710.
+2018-12-24 07:32:03 evalute_epoch31 ,evaluate_loss:2.5119575778812986 ,evaluate_accuracy:56.138.
+2018-12-24 07:33:36 evalute_epoch31 ,evaluate_loss:2.47617953626012 ,evaluate_accuracy:57.113.
+2018-12-24 07:35:11 evalute_epoch31 ,evaluate_loss:3.16459080828843 ,evaluate_accuracy:54.538.
+2018-12-24 07:36:45 evalute_epoch31 ,evaluate_loss:2.239146586021799 ,evaluate_accuracy:54.285.
+2018-12-24 07:38:18 evalute_epoch31 ,evaluate_loss:2.22277427611301 ,evaluate_accuracy:58.448.
+2018-12-24 07:39:28 epoch31:accuracy: 88.00% 	loss: 152.2680             	time: 191ms  
+2018-12-24 07:39:42 evalute_epoch31 ,evaluate_loss:2.1850495506980794 ,evaluate_accuracy:57.337.
+2018-12-24 07:40:16 evalute_epoch32 ,evaluate_loss:1.8365809472077046 ,evaluate_accuracy:57.109.
+2018-12-24 07:41:51 evalute_epoch32 ,evaluate_loss:2.107790970002603 ,evaluate_accuracy:56.453.
+2018-12-24 07:43:24 evalute_epoch32 ,evaluate_loss:2.147643808148345 ,evaluate_accuracy:58.365.
+2018-12-24 07:44:57 evalute_epoch32 ,evaluate_loss:2.2097495080147658 ,evaluate_accuracy:57.809.
+2018-12-24 07:46:30 evalute_epoch32 ,evaluate_loss:2.319209119742662 ,evaluate_accuracy:56.441.
+2018-12-24 07:48:04 evalute_epoch32 ,evaluate_loss:2.4052055340223664 ,evaluate_accuracy:58.282.
+2018-12-24 07:49:37 evalute_epoch32 ,evaluate_loss:2.6882975912938303 ,evaluate_accuracy:55.832.
+2018-12-24 07:51:10 evalute_epoch32 ,evaluate_loss:2.3765540426655924 ,evaluate_accuracy:57.921.
+2018-12-24 07:52:44 evalute_epoch32 ,evaluate_loss:2.2173687221448493 ,evaluate_accuracy:57.523.
+2018-12-24 07:54:18 evalute_epoch32 ,evaluate_loss:1.9066978266614898 ,evaluate_accuracy:56.462.
+2018-12-24 07:55:50 evalute_epoch32 ,evaluate_loss:2.3153960826983226 ,evaluate_accuracy:56.528.
+2018-12-24 07:56:51 epoch32:accuracy: 91.00% 	loss: 0.3346               	time: 190ms  
+2018-12-24 07:57:06 evalute_epoch32 ,evaluate_loss:2.2691848930412424 ,evaluate_accuracy:56.677.
+2018-12-24 07:57:57 evalute_epoch33 ,evaluate_loss:1.894333211169363 ,evaluate_accuracy:58.655.
+2018-12-24 07:59:30 evalute_epoch33 ,evaluate_loss:2.1537798785111555 ,evaluate_accuracy:58.228.
+2018-12-24 08:01:04 evalute_epoch33 ,evaluate_loss:2.4115278769490374 ,evaluate_accuracy:56.507.
+2018-12-24 08:02:40 evalute_epoch33 ,evaluate_loss:2.58878995924527 ,evaluate_accuracy:56.798.
+2018-12-24 08:04:13 evalute_epoch33 ,evaluate_loss:2.289104766951276 ,evaluate_accuracy:59.231.
+2018-12-24 08:05:46 evalute_epoch33 ,evaluate_loss:2.243811287721387 ,evaluate_accuracy:58.245.
+2018-12-24 08:07:21 evalute_epoch33 ,evaluate_loss:2.629269181992552 ,evaluate_accuracy:55.952.
+2018-12-24 08:08:54 evalute_epoch33 ,evaluate_loss:2.6071939976576464 ,evaluate_accuracy:55.686.
+2018-12-24 08:10:27 evalute_epoch33 ,evaluate_loss:2.1844369131977364 ,evaluate_accuracy:57.817.
+2018-12-24 08:12:00 evalute_epoch33 ,evaluate_loss:2.35067563902319 ,evaluate_accuracy:57.867.
+2018-12-24 08:13:33 evalute_epoch33 ,evaluate_loss:2.3567021008950224 ,evaluate_accuracy:59.281.
+2018-12-24 08:14:17 epoch33:accuracy: 91.00% 	loss: 0.2787               	time: 190ms  
+2018-12-24 08:14:31 evalute_epoch33 ,evaluate_loss:2.346758387971416 ,evaluate_accuracy:57.030.
+2018-12-24 08:15:57 evalute_epoch34 ,evaluate_loss:2.007956345479007 ,evaluate_accuracy:59.654.
+2018-12-24 08:17:31 evalute_epoch34 ,evaluate_loss:2.3023573963780217 ,evaluate_accuracy:59.049.
+2018-12-24 08:19:04 evalute_epoch34 ,evaluate_loss:2.3589871233289252 ,evaluate_accuracy:57.664.
+2018-12-24 08:20:37 evalute_epoch34 ,evaluate_loss:2.3572638789349774 ,evaluate_accuracy:57.229.
+2018-12-24 08:22:10 evalute_epoch34 ,evaluate_loss:2.261738465394669 ,evaluate_accuracy:56.901.
+2018-12-24 08:23:46 evalute_epoch34 ,evaluate_loss:2.4289595876652843 ,evaluate_accuracy:56.570.
+2018-12-24 08:25:19 evalute_epoch34 ,evaluate_loss:2.216961094641044 ,evaluate_accuracy:57.482.
+2018-12-24 08:26:53 evalute_epoch34 ,evaluate_loss:2.30410549621775 ,evaluate_accuracy:57.361.
+2018-12-24 08:28:26 evalute_epoch34 ,evaluate_loss:2.1931625302689324 ,evaluate_accuracy:56.482.
+2018-12-24 08:29:59 evalute_epoch34 ,evaluate_loss:2.228617984717044 ,evaluate_accuracy:57.971.
+2018-12-24 08:31:33 evalute_epoch34 ,evaluate_loss:2.322415715915913 ,evaluate_accuracy:57.142.
+2018-12-24 08:31:41 epoch34:accuracy: 91.00% 	loss: 0.2966               	time: 190ms  
+2018-12-24 08:31:56 evalute_epoch34 ,evaluate_loss:2.456453709555105 ,evaluate_accuracy:56.230.
+2018-12-24 08:33:13 evalute_epoch35 ,evaluate_loss:2.031571294949113 ,evaluate_accuracy:57.565.
+2018-12-24 08:34:47 evalute_epoch35 ,evaluate_loss:2.230493425710061 ,evaluate_accuracy:56.980.
+2018-12-24 08:36:21 evalute_epoch35 ,evaluate_loss:2.2830423935614563 ,evaluate_accuracy:57.050.
+2018-12-24 08:37:54 evalute_epoch35 ,evaluate_loss:2.272064967694985 ,evaluate_accuracy:57.287.
+2018-12-24 08:39:29 evalute_epoch35 ,evaluate_loss:1.9419391152376242 ,evaluate_accuracy:55.711.
+2018-12-24 08:41:03 evalute_epoch35 ,evaluate_loss:2.1496285129292323 ,evaluate_accuracy:58.576.
+2018-12-24 08:42:37 evalute_epoch35 ,evaluate_loss:2.208908196522469 ,evaluate_accuracy:58.833.
+2018-12-24 08:44:11 evalute_epoch35 ,evaluate_loss:2.3639942874135036 ,evaluate_accuracy:56.702.
+2018-12-24 08:45:44 evalute_epoch35 ,evaluate_loss:2.32721361477748 ,evaluate_accuracy:59.741.
+2018-12-24 08:47:18 evalute_epoch35 ,evaluate_loss:2.3904356177338832 ,evaluate_accuracy:56.756.
+2018-12-24 08:48:52 evalute_epoch35 ,evaluate_loss:2.363502203239385 ,evaluate_accuracy:57.560.
+2018-12-24 08:49:08 epoch35:accuracy: 91.00% 	loss: 0.2983               	time: 190ms  
+2018-12-24 08:49:22 evalute_epoch35 ,evaluate_loss:2.3679590202187457 ,evaluate_accuracy:57.813.
+2018-12-24 08:50:24 evalute_epoch36 ,evaluate_loss:2.145525096715142 ,evaluate_accuracy:57.515.
+2018-12-24 08:51:58 evalute_epoch36 ,evaluate_loss:2.3237219104877953 ,evaluate_accuracy:58.983.
+2018-12-24 08:53:31 evalute_epoch36 ,evaluate_loss:2.407323251880072 ,evaluate_accuracy:56.640.
+2018-12-24 08:55:04 evalute_epoch36 ,evaluate_loss:2.338807216202265 ,evaluate_accuracy:58.900.
+2018-12-24 08:56:41 evalute_epoch36 ,evaluate_loss:2.4026443451918538 ,evaluate_accuracy:58.145.
+2018-12-24 08:58:16 evalute_epoch36 ,evaluate_loss:2.5890639466162697 ,evaluate_accuracy:56.963.
+2018-12-24 08:59:49 evalute_epoch36 ,evaluate_loss:2.4697116010842164 ,evaluate_accuracy:56.205.
